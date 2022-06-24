@@ -5424,8 +5424,8 @@
   (symbol (lib_id "SamacSys_Parts:TC75S59FU_TE85L,F_") (at 235.585 189.865 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c11b21cf-cc07-4f01-9758-f871f431a3c0)
-    (property "Reference" "IC1" (id 0) (at 252.095 182.245 0))
-    (property "Value" "TC75S59FU_TE85L,F_" (id 1) (at 252.095 184.785 0))
+    (property "Reference" "IC2" (id 0) (at 252.095 181.61 0))
+    (property "Value" "TC75S59FU_TE85L,F_" (id 1) (at 252.095 184.15 0))
     (property "Footprint" "SamacSys_Parts:TC75S59FUTE85LF" (id 2) (at 264.795 187.325 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
@@ -5789,7 +5789,7 @@
   (symbol (lib_id "SamacSys_Parts:TC75S59FU_TE85L,F_") (at 241.3 241.3 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e416fb41-ee88-462f-847d-7d5eaeae8cc4)
-    (property "Reference" "IC2" (id 0) (at 257.81 233.68 0))
+    (property "Reference" "IC1" (id 0) (at 257.81 233.68 0))
     (property "Value" "TC75S59FU_TE85L,F_" (id 1) (at 257.81 236.22 0))
     (property "Footprint" "SamacSys_Parts:TC75S59FUTE85LF" (id 2) (at 270.51 238.76 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
@@ -6343,10 +6343,10 @@
     (path "/c31b980a-8fd5-4c8d-88df-b6eb1f8ff6a8"
       (reference "FID4") (unit 1) (value "Fiducial") (footprint "Symbol:WEEE-Logo_4.2x6mm_SilkScreen")
     )
-    (path "/c11b21cf-cc07-4f01-9758-f871f431a3c0"
+    (path "/e416fb41-ee88-462f-847d-7d5eaeae8cc4"
       (reference "IC1") (unit 1) (value "TC75S59FU_TE85L,F_") (footprint "SamacSys_Parts:TC75S59FUTE85LF")
     )
-    (path "/e416fb41-ee88-462f-847d-7d5eaeae8cc4"
+    (path "/c11b21cf-cc07-4f01-9758-f871f431a3c0"
       (reference "IC2") (unit 1) (value "TC75S59FU_TE85L,F_") (footprint "SamacSys_Parts:TC75S59FUTE85LF")
     )
     (path "/e6c1e59c-e098-469e-95b3-988e4e7d76b8"
